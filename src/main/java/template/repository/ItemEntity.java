@@ -21,4 +21,6 @@ public class ItemEntity {
 
     private String name;
 
+    private String Address;
+
 }
